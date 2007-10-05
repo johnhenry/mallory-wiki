@@ -32,4 +32,4 @@ I did this for consistency. Since all real numbers are complex numbers, but not 
 
 
 ===Why use a generic "algebraic structure" as opposed to separate implementations of a group, ring, field, etc...?===
-I originally extended the set class to several common algebraic structures (group, ring, and field). However, considering how many recognized structures exist and minor ambiguities in definition, it wasn't practical to maintain these definition. Furthermore, there isn't a [feasible] method for a computer to verify the axioms for specific structures, so it's up to the programmer to make sure what he or she defines as a group is really a group, what's a ring is really a ring, etc.
+I originally extended the set class to several common algebraic structures (group, ring, and field). However, considering how many recognized structures exist and minor ambiguities in definition, it wasn't practical to maintain these definition. Furthermore, there isn't a \[feasible\] method for a computer to verify the axioms for specific structures, so it's up to the programmer to make sure what he or she defines as a group is really a group, what's a ring is really a ring, etc.
