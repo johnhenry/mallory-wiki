@@ -9,7 +9,7 @@ Mallory is a library for doing advanced college level math (i.e. beyond calculus
 I'm a student with an interest in math and computer science.
 
 ===Why did you choose the name "Mallory"?===
-I originally wanted the name contain the word "Math". I tried things like "Math Suite" and "Math Sweet" and eventually settled upon "Mathology" because I thought it sounded cool. After coming up with the logo design, I discovered that Wolfram Research had already trademarked the name. I decided to name the project after my friend Mallory mainly because the letters were similar and it wouldn't take much to change the logo. I may just name all of my projects after my friends from now on.
+I name all of my projects after random girls. Kind of like boats or hurricanes(pre 1979). 
 
 ===What can/should I use this for?===
 You can use this to create flash applications that do math. I recommend it for making educational web applications.
